@@ -1,0 +1,11 @@
+Package: mytrialbg
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Behlul Guler <behlul.guler2@gmail.com>
+Maintainer: Behlul Guler <behlul.guler2@gmail.com>
+Description: My first trial package for functionality
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
